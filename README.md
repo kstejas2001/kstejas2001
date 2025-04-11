@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on: **Parvam Full Stack Internship**
 - 🌱 I’m currently learning: **HTML, CSS, JavaScript, Python, Bootstrap, AI**
 - 💬 Ask me about: **Full Stack Development, Custom ROMs**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thejas-k-s-370933280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thejas-k-s-370933280/)
 - ⚡ Fun fact: I love sci-fi movies like *Inception* & *Interstellar* 😎
 
 ---
@@ -29,4 +29,8 @@
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kstejas2001)
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thejas-k-s-370933280/)
+[![X (Twitter)](https://img.shields.io/badge/-X-black?style=flat-square&logo=twitter&logoColor=white)](https://x.com/kstejas2001)
+
