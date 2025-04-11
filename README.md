@@ -27,7 +27,6 @@
 ### 📊 GitHub Stats
 
 ![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kstejas2001&show_icons=true&theme=radical)
----
 
 ### 🔗 Connect with me
 
