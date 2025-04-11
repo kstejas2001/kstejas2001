@@ -23,8 +23,7 @@
 
 ### 📊 GitHub Stats
 
-![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kstejas2001&show_icons=true&theme=radical)
-
+![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kstejas2001&show_icons=true&theme=radical)
 ---
 
 ### 🔗 Connect with me
@@ -32,4 +31,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thejas-k-s-370933280/)
 [![X (Twitter)](https://img.shields.io/badge/-X-black?style=flat-square&logo=twitter&logoColor=white)](https://x.com/kstejas2001)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/kstejas2001)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:kstejas2001@gmail.com)
 
