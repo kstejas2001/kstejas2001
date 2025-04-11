@@ -7,6 +7,9 @@
 - 🌱 I’m currently learning: **HTML, CSS, JavaScript, Python, Bootstrap, AI**
 - 💬 Ask me about: **Full Stack Development, Custom ROMs**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thejas-k-s-370933280/)
+- 🌐 [My Portfolio](https://kstejas2001.github.io/dev-portfolio-template/)
+- 📫 Gmail: kstejas2001@gmail.com
+- 💻 Languages: HTML, CSS, JavaScript, Bootstrap
 - ⚡ Fun fact: I love sci-fi movies like *Inception* & *Interstellar* 😎
 
 ---
