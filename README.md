@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm K S Thejas</h1>
 <h3 align="center">An Aspiring Developer | Tech Explorer | Lifelong Learner</h3>
-
+<h3 align='center'>
+  UI/UX Designer && Frontend Developer<img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+</h3>
 ---
 
 - 🔭 I’m currently working on: **Parvam Full Stack Internship**
