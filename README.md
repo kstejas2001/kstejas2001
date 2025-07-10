@@ -3,6 +3,9 @@
 <h3 align='center'>
   UI/UX Designer && Frontend Developer<img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
+🔭 I’m currently working on React.js, Next.js and Material UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+
+🏫 I’m currently **Backend** **Django Full Stack Development**
 ---
 
 - 🔭 I’m currently working on: **Parvam Full Stack Internship**
