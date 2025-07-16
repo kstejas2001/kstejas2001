@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm K S Thejas</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+👋+I'm+Pranshu+Chourasia;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 <h3 align="center">An Aspiring Developer | Tech Explorer | Lifelong Learner</h3>
 <h3 align='center'>
   UI/UX Designer && Frontend Developer<img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
