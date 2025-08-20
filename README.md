@@ -3,24 +3,35 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+👋+I'm+Thejas+K+S;Full+Stack+Developer;Open+Source+Explorer;Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
-<h3 align="center">An Aspiring Developer | Tech Explorer | Lifelong Learner</h3>
-<h3 align='center'>Frontend Developer && Backend Developer <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
-</h3>
-🔭 I’m currently working on React.js, Next.js and Material UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+<h3 align="center">Teck Explorer | ECE Graduate 🎓 | Lifelong Learner</h3>
 
-🏫 I’m currently **Backend** **Django Full Stack Development**
 ---
 
-- 🔭 I’m currently working on: **Parvam Full Stack Internship**
-- 🌱 I’m currently learning: **HTML, CSS, JavaScript, Python, Bootstrap, AI**
+## 🔹 About Me
+
+I'm an **Electronics & Communication graduate** passionate about building clean, scalable, and impactful web applications. Currently diving deep into **AI integrations**, growing as a **full-stack developer**, and contributing to **open-source projects**. I love exploring new tech, sharing ideas, and turning concepts into reality 🚀.
+
+- 🔧 **Tech Stack:** C++, JavaScript, React, Python
+- 📚 **Focus Areas:** Full-Stack Development, Generative AI, System Design, DSA
+- 🎯 **Current Goal**: Build & deploy an **AI-powered project** during upcoming tech residencies
+- ⚡ **Fun fact:** I love sci-fi movies like *Inception* & *Interstellar* 😎
+
+---
+
+<img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" /> I’m currently working on React.js, Next.js and Material UI
+
+I’m currently **Backend** **Django Full Stack Development**
+---
+
+- 🔭 Working on: **Technical Trainer Engineer at ParvaM Software Solution**
+- 🏫 Exploring: **Django Backend + AI integrations**
+- 🌱 Learning: **HTML, CSS, JavaScript, Python, Bootstrap, Next.js**  
 - 💬 Ask me about: **Full Stack Development, Custom ROMs**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thejas-k-s-370933280/)
-- 🌐 [My Portfolio](https://kstejas2001.github.io/dev-portfolio-template/)
-- 📫 Gmail: kstejas2001@gmail.com
-- 💻 Languages: HTML, CSS, JavaScript, Bootstrap
-- ⚡ Fun fact: I love sci-fi movies like *Inception* & *Interstellar* 😎
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/thejas-k-s-370933280/) | [Gmail](mailto:kstejas2001@gmail.com) 
+- 🌐 Portfolio: [Click Here](https://kstejas2001.github.io/dev-portfolio-template/)
 
 ---
+
 ## 🛠️ Tech Arsenal
 
 ### Frontend Development
@@ -40,7 +51,6 @@
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -71,3 +81,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/kstejas2001)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:kstejas2001@gmail.com)
 
+---
+
+<p align="center"><i>"From curiosity to code, from code to craft, from craft to growth."</i></p>
