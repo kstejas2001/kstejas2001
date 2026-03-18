@@ -27,7 +27,7 @@
 ```python
 class ThejaKS:
     pronouns     = "he/him"
-    location     = "India 🇮🇳"
+    location     = "Mysore KA IND"
     education    = "B.E. Electronics & Communication Engineering"
     role         = "Full-Stack Developer (Actively Seeking Opportunities)"
 
@@ -36,7 +36,7 @@ class ThejaKS:
         "Artificial Intelligence @ 1Stop (3 months)"
     ]
 
-    tech_focus   = ["Django", "Python", "React", "Next.js", "MySQL"]
+    tech_focus   = ["Django", "Python", "MERN", "MySQL"]
     currently    = "Building scalable web apps & exploring AI integrations"
     goal         = "Backend / Full-Stack role at a product-driven tech company"
     fun_fact     = "Sci-fi fan — Inception & Interstellar hit different 🎬"
@@ -47,12 +47,12 @@ class ThejaKS:
 I’m currently **Backend** **Django Full Stack Development**
 ---
 
-- 🔭 Working on: **Technical Trainer Engineer at ParvaM Software Solution**
-- 🏫 Exploring: **Django Backend + AI integrations**
-- 🌱 Learning: **HTML, CSS, JavaScript, Python, Bootstrap, Next.js**  
-- 💬 Ask me about: **Full Stack Development, Custom ROMs**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/thejas-k-s-370933280/) | [Gmail](mailto:kstejas2001@gmail.com) 
-- 🌐 Portfolio: [Click Here](https://kstejas2001.github.io/dev-portfolio-template/)
+- Working on: **Technical Trainer Engineer at ParvaM Software Solution**
+- Exploring: **Django Backend + AI integrations**
+- Learning: **HTML, CSS, JavaScript, Python, Bootstrap, Next.js**  
+- Ask me about: **Full Stack Development, Custom ROMs**
+- Reach me: [LinkedIn](https://www.linkedin.com/in/thejas-k-s-370933280/) | [Gmail](mailto:kstejas2001@gmail.com) 
+- Portfolio: [Click Here](https://kstejas2001.github.io/dev-portfolio-template/)
 
 ---
 
