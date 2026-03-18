@@ -1,24 +1,48 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hey+👋+I'm+Thejas+K+S;Full+Stack+Developer;Open+Source+Explorer;Tech+Enthusiast" alt="Typing SVG" />
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications+%F0%9F%9A%80;Django+%7C+React+%7C+Next.js+%7C+Python;Open+to+Backend+%26+Full-Stack+roles;Turning+ideas+into+production+systems" alt="Typing SVG" />
   </a>
-</h1>
-<h3 align="center">Teck Explorer | ECE Graduate 🎓 | Lifelong Learner</h3>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thejas-k-s-370933280/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kstejas2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://kstejas2001.github.io/dev-portfolio-template/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://x.com/kstejas2001">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=kstejas2001&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</p>
 
 ---
 
-## 🔹 About Me
+## About Me <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
-I'm an **Electronics & Communication graduate** passionate about building clean, scalable, and impactful web applications. Currently diving deep into **AI integrations**, growing as a **full-stack developer**, and contributing to **open-source projects**. I love exploring new tech, sharing ideas, and turning concepts into reality 🚀.
+```python
+class ThejaKS:
+    pronouns     = "he/him"
+    location     = "India 🇮🇳"
+    education    = "B.E. Electronics & Communication Engineering"
+    role         = "Full-Stack Developer (Actively Seeking Opportunities)"
 
-- 🔧 **Tech Stack:** C++, JavaScript, React, Python
-- 📚 **Focus Areas:** Full-Stack Development, Generative AI, System Design, DSA
-- 🎯 **Current Goal**: Build & deploy an **AI-powered project** during upcoming tech residencies
-- ⚡ **Fun fact:** I love sci-fi movies like *Inception* & *Interstellar* 😎
+    internships  = [
+        "Full-Stack Web Development @ ParvaM Software Solutions (15 weeks)",
+        "Artificial Intelligence @ 1Stop (3 months)"
+    ]
+
+    tech_focus   = ["Django", "Python", "React", "Next.js", "MySQL"]
+    currently    = "Building scalable web apps & exploring AI integrations"
+    goal         = "Backend / Full-Stack role at a product-driven tech company"
+    fun_fact     = "Sci-fi fan — Inception & Interstellar hit different 🎬"
+```
 
 ---
-
-<img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" /> I’m currently working on React.js, Next.js and Material UI
 
 I’m currently **Backend** **Django Full Stack Development**
 ---
@@ -69,11 +93,58 @@ I’m currently **Backend** **Django Full Stack Development**
 
 ---
 
-### 📊 GitHub Stats
+## Featured Project
 
-![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kstejas2001&show_icons=true&theme=radical)
+<a href="https://github.com/kstejas2001/web_projects/tree/main/DOCUMENT_REQUEST/official_doc_project">
+  <img align="right" width="360" src="https://github-readme-stats.vercel.app/api/pin/?username=kstejas2001&repo=web_projects&theme=tokyonight&hide_border=true"/>
+</a>
 
-### 🔗 Connect with me
+### 🗂️ Official Document Request Management System
+**@ ParvaM Software Solutions Internship**
+
+A civic web platform enabling citizens to apply online for government-issued documents — Aadhaar, PAN Card, Voter ID, Birth Certificate, and Death Certificate.
+
+**What I built:**
+- ⚙️ Full Django backend — models, auth, request lifecycle & status tracking
+- 🔐 Role-based access: citizens apply; admins verify, approve, or reject
+- 📄 Secure document download flow post-verification
+- 🎨 Responsive UI with Bootstrap + JavaScript
+- 🗄️ Data persistence with MySQL; version control via Git & GitHub
+
+`Django` `Python` `MySQL` `Bootstrap` `JavaScript` `Git`
+
+<br clear="right"/>
+
+---
+
+## 📂 Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Mastering DSA Logic](https://github.com/kstejas2001/mastering-dsa-logic) | Multi-language DSA & LeetCode-style solutions with reusable templates | Python · C++ · Java |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kstejas2001&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kstejas2001&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kstejas2001&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kstejas2001&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+### Connect with me
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thejas-k-s-370933280/)
@@ -82,5 +153,8 @@ I’m currently **Backend** **Django Full Stack Development**
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:kstejas2001@gmail.com)
 
 ---
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&animation=fadeIn)
 
-<p align="center"><i>"From curiosity to code, from code to craft, from craft to growth."</i></p>
+<p align="center">
+  <i>"From curiosity to code — from code to craft — from craft to growth."</i>
+</p>
